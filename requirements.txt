@@ -1,0 +1,8 @@
+# Core libraries for numerical computations and matrix operations
+numpy>=1.24.0
+
+# Scientific computing and data visualization
+matplotlib>=3.7.0
+
+# Image processing library required by Matplotlib to save exported GIF animations
+pillow>=9.5.0
